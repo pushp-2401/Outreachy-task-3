@@ -27,7 +27,7 @@ def parsesite(url):
        
         Pid = str(s1[16:len(s1)-1])
         #
-        if i>1 and Pid == 'P31': 
+        if i>1 and Pid == 'P31': # if i>1 and Pid == P31 : for getting only p31 property of article, if i>1 : to get all properties in article
            s2 = item.split( '<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">')[1]
            s3 = s2.split()[1]
            qid=re.search(r'[Q][0-9].*[0-9]',s3).group()
