@@ -1,0 +1,200 @@
+wikipedia article - https://en.wikipedia.org/wiki/Bihar_Museum
+P735 :  Bihar Museum
+P18 :  Bihar Museum Bailey Road 02.jpg
+logo :  BiharMuseum.svg
+map_type :  India Patna
+location :  [[Patna]], [[Bihar]], India
+car_park :  available
+
+
+
+wikipedia aticle - https://en.wikipedia.org/wiki/Louvre
+P735 :  Louvre Museum
+P18 :  File:Louvre aile Richelieu.jpg
+P2096 :  The Richelieu Wing of the museum
+map_type :  Paris
+location :  Musée du Louvre, 75001 Paris, France
+P1640 :  Marie-Laure de Rochebrune
+P1448 : Forgotten Empire: The World of Ancient Persia
+P123 : University of California Press
+P854 : http://arthistory.about.com/library/weekly/sp/bl_forgottenempcat_rev.htm
+P18 :  Appartements Napoléon III.jpg
+P18 :  Apartamentos de Napoleão (3666688904).jpg
+P18 :  Napoleon III Apartments (44883695984).jpg
+P18 :  LouvreSalle88a.jpg
+
+wikipedia article - https://en.wikipedia.org/wiki/India
+conventional_long_name :  Republic of India
+common_name :  India
+image_flag :  Flag of India.svg
+image_coat :  Emblem of India.svg
+symbol_width :  60px
+other_symbol_type :  National song
+image_map :  India (orthographic projection).svg
+map_width :  250px
+map_caption :  Area controlled by India shown in dark green; regions claimed but not controlled shown in light green
+regional_languages :  {{collapsible list
+languages_type :  Native languages
+area_rank :  7th
+population_estimate_rank :  2nd
+population_census_rank :  2nd
+population_density_rank :  19th
+GDP_PPP_rank :  3rd
+GDP_PPP_per_capita_rank :  122th
+GDP_nominal_rank :  6th
+GDP_nominal_per_capita_rank :  138nd
+Gini_rank :  79th
+date_format :  {{ubl
+electricity :  230 V–50 Hz
+religion :  {{ubl
+last : Ludden
+last : Ludden
+first : David|title
+last1 : Asher|first1
+last : Dyson
+first : Tim|title
+last1 : Asher
+last1 : Asher
+last1 : Asher
+last1 : Metcalf
+last1 : Metcalf
+align :  left
+P18 :  1500-1200 BCE Rigveda, manuscript page sample i, Mandala 1, Hymn 1 (Sukta 1), Adhyaya 1, lines 1.1.1 to 1.1.9, Sanskrit, Devanagari.jpg
+P18 :  Battle at Lanka, Ramayana, Udaipur, 1649-53.jpg
+align :  right
+P18 :  India in 250 BCE Joppen.jpg
+P18 :  India in 350 CE Joppen.jpg
+P18 : Cave 26, Ajanta.jpg
+align :  left
+P18 :  India in 1022 Joppen.jpg
+align :  right
+P18 :  India in 1398 Joppen.jpg
+P18 :  Qutb minar ruins.jpg
+align :  left
+P18 :  India in 1525 Joppen Hi Def.jpg
+P18 :  India in1605 Joppen Hi Def.jpg
+align :  right
+P18 :  India in 1795 Joppen High Def.jpg
+P18 :  India in 1848 Joppen.jpg
+P18 : India 1835 2 Mohurs.jpg
+align :  left
+P18 :  British Indian Empire 1909 Imperial Gazetteer of India.jpg
+align :  right
+caption_align :  center
+P18 :  India Vegetation Features IGI 1909 Atlas.jpg
+P18 :  2010 India forest cover distribution map for its States and Union Territories.svg
+caption_align :  center
+align :  right
+P18 :  Rajagopal speaking to 25,000 people, Janadesh 2007, India.jpg
+region_type :  National
+align :  left
+align :  right
+P18 :  Indian Air Force contingent as a part of the Bastille Day Parade of France, in Paris on July 14, 2009.jpg
+align :  left
+align :  right
+P18 :  Plowing the land in India - modern and traditional.jpg
+P18 :  Women at work, Gujarat (cropped).jpg
+P18 :  ILRI, Stevie Mann - Villager and calf share milk from cow in Rajasthan, India.jpg
+align :  left
+P18 :  Bangalore Panorama edit1.jpg
+caption_align :  center
+align :  left
+P18 :  Female health workers in India (34332433890).jpg
+align :  right
+P1448 :  India by population density, religion, language
+align :  right
+P18 :  India School.jpg
+P18 :  Water pump, Varanasi (15563170660) Cropped.jpg
+align :  left
+P18 :  Strolling_Shoppers_in_Paltan_Bazaar.jpg
+P18 :  Girls in Kargil.jpg
+P18 :  Happy Tailor (5274603493).jpg
+align :  right
+P18 :  Vindalho.jpg
+P18 :  Hyderabadi Chicken Biryani.jpg
+image6 :  Odia Mutton Curry (Mansha Tarkari) Rotated.jpg
+P18 :  Assamese Thali.jpg
+P18 :  South Indian Thali Cropped.jpg
+image5 :  Tiffin wallah lunch.jpg
+align :  left
+P18 :  Making Khameeri Roti in Tandoor in Turkman Gate Old Delhi.webm
+P18 :  Sachin Tendulkar about to score 14000th run in test cricket.jpg
+caption_align :  center
+align :  right
+P18 :  Filles jouant à la marelle, Jaura, Inde.jpg
+P1448 : Related topics
+
+
+
+
+Wikipedia article - https://en.wikipedia.org/wiki/Ramdhari_Singh_Dinkar
+P735 :  Ramdhari Singh Dinkar
+P18 :  Ramdhari Singh Dinkar 1999 stamp of India.jpg
+image_size :  245px
+P2096 :  Dinkar on a 1999 stamp of India
+birth_name :  Ramdhari Singh Dinkar
+occupation :  Poet, [[Freedom Fighter]], Member of Parliament, Essayist, [[Literary critic]], Journalist, Satirist
+signature :  Dinkar Autograph Hindi.png
+P854 : http://pib.nic.in/archieve/lreleng/l0999/r140999.html
+P1448 : Special Postage Stamps on Linguistic Harmony of India
+work : Latest PIB Releases
+P123 : Press Information Bureau of the Government of India
+first :  Singh
+last :  Vijendra Narayan
+location :  New Delhi
+author-link :  Harish Khare
+first :  Sabyasachi
+last :  Bhattacharya
+P1448 :  Rabindranath Tagore: An Interpretation
+location :  New Delhi
+first :  Arun Kumar Sinha
+last :  Kumar Vikram
+P1448 :  Ramdhari Singh Dinkar: Makers of Indian Literature
+first :  Ramdhari Singh
+last :  Dinkar
+P1448 :  Chintan ke Aayam
+P123 :  Lokbharti Prakashan
+first :  Mohan
+last :  Lal
+P1448 :  Encyclopaedia of Indian Literature
+first :  Sisir Kumar
+last :  Das
+P1448 :  A History of Indian literature
+first :  Balmiki Prasad
+last :  Singh
+author-link :  Balmiki Prasad Singh
+P123 :  Oxford University Press
+location :  Delhi
+title-link :  14th Dalai Lama
+first :  Veena Kukreja
+last :  Mahendra Prasad Singh
+P1448 :  Democracy, Development and Discontent in South Asia
+location :  New Delhi
+first :  Attar
+last :  Chand
+P1448 :  President Shankar Dayal Sharma, the scholar and the statesman
+P123 :  Anmol Publications
+P854 : http://pib.nic.in/archieve/lreleng/l0999/r140999.html
+P1448 : Special Postage Stamps on Linguistic Harmony of India
+work : Latest PIB Releases
+
+wikipeida article and knowing which property i found manually in task1 and printing rest of them same.
+wikipeida article - https://en.wikipedia.org/wiki/Louvre
+
+P735 :  Louvre Museum
+P18 :  File:Louvre aile Richelieu.jpg
+above property found manually in task1
+P2096 :  The Richelieu Wing of the museum
+map_type :  Paris
+location :  Musée du Louvre, 75001 Paris, France
+P1640 :  Marie-Laure de Rochebrune
+P1448 : Forgotten Empire: The World of Ancient Persia
+P123 : University of California Press
+P854 : http://arthistory.about.com/library/weekly/sp/bl_forgottenempcat_rev.htm
+P18 :  Appartements Napoléon III.jpg
+P18 :  Apartamentos de Napoleão (3666688904).jpg
+P18 :  Napoleon III Apartments (44883695984).jpg
+P18 :  LouvreSalle88a.jpg
+
+Conclusion - 
+My parsing worked for many pages.
