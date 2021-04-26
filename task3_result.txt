@@ -1,4 +1,5 @@
-*'''finding property(P31) and text page for bihar museum-''' 
+*'''finding property(P31) and text page for bihar museum-''
+
 <!DOCTYPE html>
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
