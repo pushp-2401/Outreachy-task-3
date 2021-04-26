@@ -51,5 +51,4 @@ def parsesite(url):
 
 parsesite('https://www.wikidata.org/wiki/Q15961638')
 parsesite('https://www.wikidata.org/wiki/Q19675')
-
     
